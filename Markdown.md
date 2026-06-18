@@ -18,3 +18,45 @@ It is used to format text in plain text.
 **Key Point**
 - Markdown support up to 6 level of heading.
 - There must be a space between `#` and title.
+
+# Lists
+
+## Unordered
+
+Unordered list can be created using `-`, `+` and `*` character.
+
+```Markdown
+- Item
+- Item
+- Item
+```
+or
+```Markdown
++ Item
++ Item
++ Item
+```
+or
+```Markdown
+* Item
+* Item
+* Item
+```
+
+## Ordered
+
+```Markdown
+1. Item
+1. Item
+1. Item
+```
+
+**Key Point**
+- Markdown can handles counting automatically.
+
+## Task
+
+```Markdown
+- [x] Done task
+- [ ] To-do task
+```
