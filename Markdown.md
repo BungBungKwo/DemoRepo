@@ -60,3 +60,19 @@ or
 - [x] Done task
 - [ ] To-do task
 ```
+
+# Code
+
+## Inline Code
+```
+`Code`
+```
+
+
+## Code Block
+
+````
+```
+Code
+```
+````
