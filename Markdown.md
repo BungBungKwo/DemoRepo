@@ -6,6 +6,7 @@ It is used to format text in plain text.
 
 # Headings
 
+To create a heading, add <kbd>#</kbd> before the heading text:
 ```Markdown
 # Heading Level 1
 ## Heading Level 2
@@ -15,9 +16,12 @@ It is used to format text in plain text.
 ###### Heading Level 6
 ```
 
-**Key Point**
-- Markdown support up to 6 level of heading.
-- There must be a space between `#` and title.
+**Key Points**
+- **Levels of Heading**
+    The number of `#` determins the heading level (less `#` for higher level).
+    Markdown support up to 6 level of heading.
+- **Prone to Error**
+    There must be a space between `#` and title.
 
 # Lists
 
