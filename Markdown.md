@@ -76,3 +76,9 @@ or
 Code
 ```
 ````
+
+# Image
+
+```Markdown
+![Text](URL)
+```
