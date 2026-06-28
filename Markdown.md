@@ -4,6 +4,16 @@
 
 It is used to format text in plain text.
 
+## Workflow
+
+To use markdown:
+- Markdown file
+- Markdown processor
+
+**Markdown file** is a file with extension name `.md` or `.markdown`. Example: `Mathematics.md`.
+
+**Markdown processor** is a program which is capable of processing markdown files. Example: `Typora`.
+
 # Headings
 
 To create a heading, add <kbd>#</kbd> before the heading text:
