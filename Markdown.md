@@ -16,6 +16,7 @@ To use markdown:
 
 # Headings
 
+## Method1
 To create a heading, add <kbd>#</kbd> before the heading text:
 ```Markdown
 # Heading Level 1
@@ -33,6 +34,15 @@ To create a heading, add <kbd>#</kbd> before the heading text:
 - **Prone to Error**
     There must be a space between `#` and title.
 
+## Method2
+
+On the line below the heading text, add any number of `=` or `-`:
+```markdown
+Headling Level 1
+================
+Heading Level 2
+---------------
+```
 # Lists
 
 ## Unordered
