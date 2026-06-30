@@ -43,6 +43,15 @@ Headling Level 1
 Heading Level 2
 ---------------
 ```
+
+# Paragraphs
+
+To create paragraphs, add a blank line to separate the text:
+```markdown
+Paragraph 1
+
+Paragraph 2
+```
 # Lists
 
 ## Unordered
