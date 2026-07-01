@@ -52,6 +52,15 @@ Paragraph 1
 
 Paragraph 2
 ```
+
+# Line Breaks
+
+To create a line break, type two or more <kbd>Space</kbd> at the end of the line, then type <kbd>Enter</kbd> to insert the next line:
+```markdown
+First line  
+Second line
+```
+
 # Lists
 
 ## Unordered
