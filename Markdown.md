@@ -79,6 +79,13 @@ To Italic text, one <kbd>*</kbd> or <kbd>_</kbd> warp around both side:
 _Italic Text_
 ```
 
+# Quotes
+
+To create a block quote. use a <kbd>></kbd> before text:
+```markdown
+> Quote Text
+```
+
 # Lists
 
 ## Unordered
