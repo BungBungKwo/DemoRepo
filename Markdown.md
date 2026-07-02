@@ -135,6 +135,7 @@ or
 `Code`
 ```
 
+To escape inline code, enclosing it with double tick mark.
 
 ## Code Block
 
@@ -143,6 +144,12 @@ or
 Code
 ```
 ````
+
+# Links
+
+```markdown
+[Text](URL "title")
+```
 
 # Image
 
