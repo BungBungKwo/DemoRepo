@@ -61,6 +61,24 @@ First line
 Second line
 ```
 
+# Emphasis
+
+## Bold
+
+To bold text, two <kbd>*</kbd> or <kbd>_</kbd> warp around both side:
+```markdown
+**Bold Text**
+__Bold Text__
+```
+
+## Italic
+
+To Italic text, one <kbd>*</kbd> or <kbd>_</kbd> warp around both side:
+```markdown
+*Italic Text*
+_Italic Text_
+```
+
 # Lists
 
 ## Unordered
